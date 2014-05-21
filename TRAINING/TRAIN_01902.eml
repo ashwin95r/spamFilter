@@ -1,0 +1,21 @@
+None	Me and my kernel rpm builds ... this all works along the same idea I have 
+been aiming for, but the freaking RedHat Kernel srpms still have been stump 
+...
+
+	If we could get this and the alsa driver stuff working, it would be whole 
+lot easier to try out a newer kernel ... but then the size of these rpms 
+are huge, at least for us n^1 world courties ... ;-{ ...
+
+	I will keep watching and hoping that somebody comes up with a great working 
+idea ...
+
+Thanks guys.
+Mailed
+Lee
+
+
+_______________________________________________
+RPM-List mailing list <RPM-List@freshrpms.net>
+http://lists.freshrpms.net/mailman/listinfo/rpm-list
+
+
