@@ -1,2 +1,3 @@
 spamFilter
 ==========
+A NaiveBayes implementation
